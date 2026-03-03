@@ -346,4 +346,4 @@ requests.delete(url, headers=headers)
 
 ---
 
-*Found this helpful? Give it a ⭐ and share it with other beginners!*
+*Found this helpful? Give it a ⭐ and share it with others!*
