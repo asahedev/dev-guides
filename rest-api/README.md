@@ -1,7 +1,7 @@
 # 🌐 REST API Guide for Beginners
 
 > **Author:** [@asahedev](https://github.com/asahedev)  
-> **Format:** Hybrid — reads as a guide, doubles as a cheat sheet  
+> **Format:** Reads as a guide, doubles as a cheat sheet  
 > **Language examples:** Python 🐍
 
 ---
